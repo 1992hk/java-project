@@ -13,6 +13,6 @@ public class HelloServlet extends HttpServlet {
         response.getWriter().println("<h1>Employee WebApp - Jenkins CI/CD Practice</h1>");
         response.getWriter().println("<p>Welcome Hari! This is your Java application deployment project.</p>");
         response.getWriter().println("<p>This is the second line to Practise WebHook</p>");
-        response.getWriter().println("<p>This is the second line to Practise WebHook</p>");
+        response.getWriter().println("<p>webhook Practise</p>");
     }
 }
